@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "586615608913",
+    "project_id": "fakefacebook-d6b5d",
+    "storage_bucket": "fakefacebook-d6b5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586615608913:android:2779df3bf70fd48ff5ca70",
+        "android_client_info": {
+          "package_name": "com.example.fakefacebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586615608913-numqrunlce4ui33t715vqc0nravhqmf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fakefacebook",
+            "certificate_hash": "13a2443a19544218d00adf94c0e8a2535552fc56"
+          }
+        },
+        {
+          "client_id": "586615608913-a3ie8275m6b7ji1kqq19c4qoqkq899s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlCveUMU_0qTMwJs0hqKzsfDfycFrETSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586615608913-a3ie8275m6b7ji1kqq19c4qoqkq899s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
